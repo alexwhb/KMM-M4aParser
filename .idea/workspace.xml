@@ -4,51 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b6d5a2f2-2949-4bd8-8cf0-821d71b35047" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/M4aParser_js_1_0_SNAPSHOT.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/M4aParser_jvm_1_0_SNAPSHOT.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.gradle.kts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.gradle.kts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/commonMain/kotlin/Atom.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/commonMain/kotlin/Atoms/Hdlr.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/commonMain/kotlin/Atoms/Mdhd.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/commonMain/kotlin/Atoms/Mdia.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/commonMain/kotlin/Atoms/Minf.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/commonMain/kotlin/Atoms/Moov.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/commonMain/kotlin/Atoms/PassThrough.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/commonMain/kotlin/Atoms/SampleTableAtoms/ChunkOffsetAtom.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/commonMain/kotlin/Atoms/SampleTableAtoms/Stbl.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/commonMain/kotlin/Atoms/SampleTableAtoms/Stsc.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/commonMain/kotlin/Atoms/SampleTableAtoms/Stsd.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/commonMain/kotlin/Atoms/SampleTableAtoms/Stsz.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/commonMain/kotlin/Atoms/SampleTableAtoms/Stts.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/commonMain/kotlin/Atoms/SampleTableAtoms/Text.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/commonMain/kotlin/Atoms/Tkhd.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/commonMain/kotlin/Atoms/Trak.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/commonMain/kotlin/M4aParser.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/commonMain/kotlin/ParserUtils.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/commonMain/kotlin/TrackReferenceType.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/commonMain/kotlin/TrefSubatom.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/commonMain/kotlin/enums/AtomIdentifier.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/commonMain/kotlin/enums/TrackReferenceType.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/commonMain/kotlin/enums/TrackType.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/commonMain/kotlin/utils/ByteStreamReader.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/commonMain/kotlin/utils/WebByteStreamReader.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/iosMain/kotlin/FileByteStreamReader.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/iosMain/kotlin/Util.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jvmMain/kotlin/FileByteStreamReader.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jvmMain/kotlin/Test.kt" afterDir="false" />
+    <list default="true" id="b6d5a2f2-2949-4bd8-8cf0-821d71b35047" name="Changes" comment="initial commit">
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -103,6 +60,9 @@
         <envs />
       </variant>
     </executable>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
@@ -245,12 +205,25 @@
       <workItem from="1695148951379" duration="18735000" />
       <workItem from="1695172394773" duration="599000" />
       <workItem from="1695173002099" duration="17822000" />
-      <workItem from="1695250823365" duration="44226000" />
+      <workItem from="1695250823365" duration="44656000" />
     </task>
+    <task id="LOCAL-00001" summary="initial commit">
+      <option name="closed" value="true" />
+      <created>1695749104318</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1695749104318</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
