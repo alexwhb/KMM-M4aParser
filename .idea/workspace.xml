@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b6d5a2f2-2949-4bd8-8cf0-821d71b35047" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/M4aParser_js_1_0_SNAPSHOT.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/M4aParser_jvm_1_0_SNAPSHOT.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/settings.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/commonMain/kotlin/Atom.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/commonMain/kotlin/Atoms/Hdlr.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/commonMain/kotlin/Atoms/Mdhd.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/commonMain/kotlin/Atoms/Mdia.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/commonMain/kotlin/Atoms/Minf.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/commonMain/kotlin/Atoms/Moov.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/commonMain/kotlin/Atoms/PassThrough.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/commonMain/kotlin/Atoms/SampleTableAtoms/ChunkOffsetAtom.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/commonMain/kotlin/Atoms/SampleTableAtoms/Stbl.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/commonMain/kotlin/Atoms/SampleTableAtoms/Stsc.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/commonMain/kotlin/Atoms/SampleTableAtoms/Stsd.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/commonMain/kotlin/Atoms/SampleTableAtoms/Stsz.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/commonMain/kotlin/Atoms/SampleTableAtoms/Stts.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/commonMain/kotlin/Atoms/SampleTableAtoms/Text.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/commonMain/kotlin/Atoms/Tkhd.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/commonMain/kotlin/Atoms/Trak.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/commonMain/kotlin/M4aParser.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/commonMain/kotlin/ParserUtils.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/commonMain/kotlin/TrackReferenceType.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/commonMain/kotlin/TrefSubatom.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/commonMain/kotlin/enums/AtomIdentifier.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/commonMain/kotlin/enums/TrackReferenceType.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/commonMain/kotlin/enums/TrackType.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/commonMain/kotlin/utils/ByteStreamReader.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/commonMain/kotlin/utils/WebByteStreamReader.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/iosMain/kotlin/FileByteStreamReader.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/iosMain/kotlin/Util.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jvmMain/kotlin/FileByteStreamReader.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jvmMain/kotlin/Test.kt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Enum" />
+        <option value="Kotlin Class" />
+        <option value="Kotlin File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="KotlinMultiplatform" KONAN_HOME="$USER_HOME$/.konan/kotlin-native-prebuilt-macos-aarch64-1.9.10">
+    <executable TARGET="ios_arm64" TARGET_NAME="iosArm64" EXECUTABLE_NAME="test" PROJECT_PREFIX="M4aParser:" IS_TEST="true">
+      <variant NAME="Debug" GRADLE_TASK=":linkDebugTestIosArm64" FILE="$PROJECT_DIR$/build/bin/iosArm64/debugTest/test.kexe" WORKING_DIR="" PROGRAM_PARAMS="">
+        <envs />
+      </variant>
+    </executable>
+    <executable TARGET="ios_x64" TARGET_NAME="iosX64" EXECUTABLE_NAME="test" PROJECT_PREFIX="M4aParser:" IS_TEST="true">
+      <variant NAME="Debug" GRADLE_TASK=":linkDebugTestIosX64" FILE="$PROJECT_DIR$/build/bin/iosX64/debugTest/test.kexe" WORKING_DIR="" PROGRAM_PARAMS="">
+        <envs />
+      </variant>
+    </executable>
+    <executable TARGET="ios_simulator_arm64" TARGET_NAME="iosSimulatorArm64" EXECUTABLE_NAME="test" PROJECT_PREFIX="M4aParser:" IS_TEST="true">
+      <variant NAME="Debug" GRADLE_TASK=":linkDebugTestIosSimulatorArm64" FILE="$PROJECT_DIR$/build/bin/iosSimulatorArm64/debugTest/test.kexe" WORKING_DIR="" PROGRAM_PARAMS="">
+        <envs />
+      </variant>
+    </executable>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2VajEXDp2zaRTmMJXEjkKjF9Oe6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/alexblack/Projects/Work/WebProjects/playground/M4aParser/src/commonMain/kotlin",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.44861215",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/commonMain/kotlin" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Gradle.Test [jvm]">
+    <configuration name="M4aParser [linkDebugFrameworkIosSimulatorArm64]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="linkDebugFrameworkIosSimulatorArm64" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>false</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="M4aParser [linkIosArm64]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="linkIosArm64" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>false</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="M4aParser [linkIosSimulatorArm64]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="linkIosSimulatorArm64" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>false</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="Test [jvm]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="-DmainClass=TestKt --quiet" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="jvmRun" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>false</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.Test [jvm]" />
+        <item itemvalue="Gradle.M4aParser [linkDebugFrameworkIosSimulatorArm64]" />
+        <item itemvalue="Gradle.M4aParser [linkIosSimulatorArm64]" />
+        <item itemvalue="Gradle.M4aParser [linkIosArm64]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b6d5a2f2-2949-4bd8-8cf0-821d71b35047" name="Changes" comment="" />
+      <created>1695080974874</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1695080974874</updated>
+      <workItem from="1695080975943" duration="304000" />
+      <workItem from="1695148951379" duration="18735000" />
+      <workItem from="1695172394773" duration="599000" />
+      <workItem from="1695173002099" duration="17822000" />
+      <workItem from="1695250823365" duration="44226000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/commonMain/kotlin/Atoms/Moov.kt</url>
+          <line>19</line>
+          <properties>
+            <option name="lambda-ordinal" value="-1" />
+          </properties>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <condition expression="atomID == &quot;free&quot;" language="kotlin" />
+          <url>file://$PROJECT_DIR$/src/commonMain/kotlin/utils/ByteStreamReader.kt</url>
+          <line>105</line>
+          <option name="timeStamp" value="71" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/jvmMain/kotlin/Test.kt</url>
+          <line>21</line>
+          <option name="timeStamp" value="87" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/jvmMain/kotlin/Test.kt</url>
+          <line>23</line>
+          <option name="timeStamp" value="89" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/jvmMain/kotlin/Test.kt</url>
+          <line>24</line>
+          <option name="timeStamp" value="90" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/commonMain/kotlin/Atoms/SampleTableAtoms/Stbl.kt</url>
+          <line>96</line>
+          <option name="timeStamp" value="91" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
